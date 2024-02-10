@@ -18,6 +18,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirat13&show_icons=true&locale=en&layout=compact" alt="kirat13" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirat13&show_icons=true&locale=en" alt="kirat13" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirat13&" alt="kirat13" /></p>
