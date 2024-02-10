@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gurkirat Kaur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fen.picmix.com%2Fstamp%2FWelcome-to-my-profile-2455275&psig=AOvVaw30XAoPS_oxbry1UOqjW1Sq&ust=1707686196561000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKC4sbTZoYQDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://img1.picmix.com/output/stamp/normal/5/7/2/5/2455275_6f9b5.gif">
 
 - 🌱 I’m currently learning **Java Development tools, Web Frameworks**
 
