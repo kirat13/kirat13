@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gurkirat Kaur</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Aspiring Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://img1.picmix.com/output/stamp/normal/5/7/2/5/2455275_6f9b5.gif">
 
 - 🌱 I’m currently learning **Java Development tools, Web Frameworks**
