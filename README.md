@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gurkirat Kaur</h1>
 <h3 align="center">Aspiring Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://img1.picmix.com/output/stamp/normal/5/7/2/5/2455275_6f9b5.gif](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4536550-Newsfeed%2Fattachments%2F10452125%3Fmode%3Dmedia&psig=AOvVaw3-_1NZC5aRwgvkrsd7v4jv&ust=1725210404848000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCUm97bn4gDFQAAAAAdAAAAABAK)">
+<img align="right" alt="coding" width="400" src="[[https://img1.picmix.com/output/stamp/normal/5/7/2/5/2455275_6f9b5.gif](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4536550-Newsfeed%2Fattachments%2F10452125%3Fmode%3Dmedia&psig=AOvVaw3-_1NZC5aRwgvkrsd7v4jv&ust=1725210404848000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCUm97bn4gDFQAAAAAdAAAAABAK)](https://cdn.dribbble.com/users/1519660/screenshots/4536550/media/053531508b8be8f7002815911fa86cdc.gif)">
 <h3>"Always learning, always growing! 📚 Join me on this journey!" </h3>
 
 - 🌱 I’m currently learning **Java Development tools, Web Frameworks**
