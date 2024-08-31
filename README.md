@@ -3,9 +3,9 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/media/053531508b8be8f7002815911fa86cdc.gif">
 <h3>"Always learning, always growing! 📚 Join me on this journey!" </h3>
 
-- 🌱 I’m currently learning **Java Development tools, Web Frameworks**
+- 🌱 I’m currently learning **Web Development tools, Web Frameworks, Data Analysis**
 
-- 💬 Ask me about **Java ,C++,Python,HTML,CSS,JS,Bootstrap**
+- 💬 Ask me about **Java ,C++,Python,HTML,CSS,JS,Bootstrap,SQL,Power BI,Advance Excel,React JS**
 
 - 📫 How to reach me **gurkirat1313kaur@gmail.com**
 
